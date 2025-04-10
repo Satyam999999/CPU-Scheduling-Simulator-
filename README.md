@@ -14,7 +14,7 @@ An implementation of various CPU scheduling algorithms in C++. The algorithms in
     - [Aging](#aging)
   - [Installation](#installation)
   - [Input Format](#input-format)
-  - [Contributors](#contributors)
+  - [Contributors](#contributor)
 
 ## Algorithms
 
@@ -132,3 +132,6 @@ entered as 2-4 means Round Robin with q=4. Also, policy 8-1 means Aging with q=1
 > Check the attached [testcases](https://github.com/yousefkotp/CPU-Scheduling-Algorithms/tree/main/testcases) for more details.
 
 
+## Contributor
+
+Satyam Ghosh
